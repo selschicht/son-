@@ -1,0 +1,1 @@
+export default function Datenschutz() { return <h1>Datenschutzerklärung</h1> }
